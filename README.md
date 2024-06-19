@@ -140,7 +140,7 @@ Discuss how GitHub and Visual Studio can be used together to support collaborati
     3. issue tracking on github help manage bugs
     4. Team communicaton platform on github for sharing knowledge,issues etc
 
-    
+
 
 
 Submission Guidelines:
